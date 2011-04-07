@@ -11,4 +11,4 @@ What where
 
 see .watchr, .rspec, spec/spec_helper
 
-[Article on RubyInside](http://www.rubyinside.com/how-to-rails-3-and-rspec-2-4336.html)_
+[Article on RubyInside](http://www.rubyinside.com/how-to-rails-3-and-rspec-2-4336.html)
